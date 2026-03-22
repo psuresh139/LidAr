@@ -1,6 +1,5 @@
 numpy
 scipy
 matplotlib
-trimesh
 robust-laplacian
 rawpy

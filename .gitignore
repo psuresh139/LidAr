@@ -1,6 +1,7 @@
 env/
 __pycache__/
 *.pyc
+.claude/
 
 # Raw photos — too large (273 MB), not for version control
 120th_images/
