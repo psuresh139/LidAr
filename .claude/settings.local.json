@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source env/bin/activate)",
+      "Bash(python align_and_audit.py)",
+      "Bash(python clean_and_mesh.py)",
+      "Bash(python laplacian_eigenmodes.py)",
+      "Bash(pip install:*)",
+      "Bash(python -c \"import rawpy; print\\(''rawpy'', rawpy.__version__\\)\")",
+      "Bash(python compare_bases.py)",
+      "Bash(gh auth:*)",
+      "Bash(git --version)",
+      "Bash(git config:*)"
+    ]
+  }
+}

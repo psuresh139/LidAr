@@ -1,0 +1,22 @@
+env/
+__pycache__/
+*.pyc
+
+# Raw photos — too large (273 MB), not for version control
+120th_images/
+
+# Intermediate alignment files — redundant, regenerated from PLY sources
+120thamst_aligned_xyz.npy
+120thamst_aligned_rgb.npy
+
+# Scratch / superseded figures
+Figure_1.png
+Figure_2.png
+audit_output.png
+z_distribution.png
+
+# Duplicate archive
+3_21_2026.zip
+
+# macOS
+.DS_Store
