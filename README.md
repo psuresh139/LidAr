@@ -3,6 +3,8 @@
 Spectral analysis of urban building surfaces using iPhone LiDAR.
 Two Manhattan facade scans → triangle meshes → geometry-adapted eigenbasis → comparison against DCT/JPEG.
 
+![Laplace-Beltrami eigenmodes — Block A](eigenmodes_a.png)
+
 ---
 
 ## Motivation
